@@ -7,6 +7,9 @@ public class main {
 		
 		main m = new main();
 		m.printHello();
+
+home h = new home();
+h.homemessege();
 		
 		
 		
