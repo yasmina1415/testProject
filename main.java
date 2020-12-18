@@ -1,9 +1,12 @@
 public class main {
 	
 
-	
 
 	public void printHello(){System.out.println("Hello Conflict!");}
+
+	public void printHello(){System.out.println("Hello Conflict from yasmina!");}
+
+
 
       public void addEmployee(){System.out.println("Welcome !");}
 
