@@ -1,6 +1,7 @@
 public class home {
 	
-	void homeMessege(){System.out.println("the home is here");}
+	int homeMessege(){System.out.println("the home is here");
+return 0;}
 	
 	
 	public static void main (String args []){
