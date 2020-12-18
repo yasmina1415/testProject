@@ -1,6 +1,6 @@
 public class main {
 	
-	public void printHello(){System.out.println("Hello !");}
+	public void printHello(){System.out.println("Helloooooo2!");}
 
       public void addEmployee(){System.out.println("Welcome !");}
 	
