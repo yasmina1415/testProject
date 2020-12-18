@@ -1,6 +1,6 @@
 public class main {
 	
-	public void printHello(){System.out.println("Hello !");}
+	public void printHello(){System.out.println("Hello conflict from yasmina !");}
 	
 	
 	public static void main (String args []){
@@ -9,7 +9,7 @@ public class main {
 		m.printHello();
 
 home h = new home();
-h.printHello();
+h.printHello(int x);
 		
 		
 		
