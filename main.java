@@ -1,6 +1,8 @@
 public class main {
 	
 	public void printHello(){System.out.println("Hello !");}
+
+      public void addEmployee(){System.out.println("Welcome !");}
 	
 	
 	public static void main (String args []){
@@ -9,8 +11,7 @@ public class main {
 		m.printHello();
 
 home h = new home();
-h.printHello();
-		
+m.addEmployee();
 		
 		
 		
