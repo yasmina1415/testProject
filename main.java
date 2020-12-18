@@ -4,7 +4,7 @@ public class main {
 	public void printHello(){System.out.println("Helloooooo conflictttt!");}
 
 
-      public void addEmployee(){System.out.println("Welcome !");}
+      public void addEmployee(){System.out.println("Solve Conflict!");}
 	
 	
 	public static void main (String args []){
