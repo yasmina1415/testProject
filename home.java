@@ -1,6 +1,6 @@
 public class home {
 	
-	void static homeMessege(){
+	void static homeMessage(){
 		System.out.println("the home is here");
 		}
 	
