@@ -9,7 +9,7 @@ public class main {
 		m.printHello();
 
 home h = new home();
-h.homemessege();
+h.printHello();
 		
 		
 		
